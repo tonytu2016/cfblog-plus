@@ -12,6 +12,7 @@ const ACCOUNT = { //账号相关，安全性更高
   "kv_var": this['CFBLOG'],//workers绑定kv时用的变量名
 }
 
+   
 const OPT = { //网站配置     
 
   /*--前台参数--*/
