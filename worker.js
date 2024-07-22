@@ -13,7 +13,7 @@ const ACCOUNT = { //账号相关，安全性更高
 }
 
    
-const OPT = { //网站配置     
+const OPT = { //网站配置        
 
   /*--前台参数--*/
   "siteDomain" : "toddmass.us.kg",// 域名(不带https 也不带/)
